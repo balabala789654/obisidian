@@ -10,17 +10,21 @@ conda activate <your path>
 
 ### anaconda换源
 ```
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
 
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2
 
 conda config --remove channels <your channel>
 
 conda config --show channels
 
 conda config --append channels conda-forge
+
+cat ~/.condarc conda的源存于condarc中可使用此命令查看
 ```
 
 ```
