@@ -1,0 +1,2 @@
+# obisidian
+note
