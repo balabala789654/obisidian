@@ -1,6 +1,7 @@
 # 教程
 [赵虚左老师的ros教程](http://www.autolabor.com.cn/book/ROSTutorials/index.html)
-
+[鱼香ros一键安装](https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97)
+[官网教程](http://wiki.ros.org/)
 # 话题通信
 ## 发布方
 
@@ -308,5 +309,15 @@ int main(int argc, char *argv[])
     return 0;
 }
 
+```
+
+# 踩坑
+1. 在anaconda环境下运行ros会有报错，见[csdn](https://blog.csdn.net/weixin_40324045/article/details/111478774)
+```bash
+pip install rospkg rospy catkin_tools scipy
+
+conda install -c conda-forge catkin_make
+
+conda install -c conda-forge empy
 ```
 

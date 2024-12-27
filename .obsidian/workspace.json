@@ -179,10 +179,11 @@
   },
   "active": "d17c4159f9af5b7f",
   "lastOpenFiles": [
-    "Linux.md",
-    "GIT.md",
     "Conda.md",
+    "ROS.md",
     "无人机项目.md",
-    "ROS.md"
+    "GIT.md",
+    "Linux.md",
+    "asset"
   ]
 }
