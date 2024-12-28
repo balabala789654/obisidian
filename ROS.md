@@ -2,6 +2,7 @@
 [赵虚左老师的ros教程](http://www.autolabor.com.cn/book/ROSTutorials/index.html)
 [鱼香ros一键安装](https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97)
 [官网教程](http://wiki.ros.org/)
+
 # 话题通信
 ## 发布方
 
@@ -320,4 +321,8 @@ conda install -c conda-forge catkin_make
 
 conda install -c conda-forge empy
 ```
+
+2. ros需要python=3.8环境 被装错了，关于建python环境见[[Conda]]
+3. 关于在anaconda环境下使用ros见[csdn](https://blog.csdn.net/Hide_on_Stream/article/details/127363246)
+4. 
 
