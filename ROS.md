@@ -324,5 +324,5 @@ conda install -c conda-forge empy
 
 2. ros需要python=3.8环境 被装错了，关于建python环境见[[Conda]]
 3. 关于在anaconda环境下使用ros见[csdn](https://blog.csdn.net/Hide_on_Stream/article/details/127363246)
-4. 
+4. fuck!!! ROS的功能报如果是python语言，最好别用conda的虚拟环境，会卡死
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS.md",
+                "file": "无人机项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROS"
+              "title": "无人机项目"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS.md"
+                "file": "无人机项目.md"
               },
               "icon": "lucide-list",
-              "title": "ROS 的大纲"
+              "title": "无人机项目 的大纲"
             }
           }
         ],
@@ -164,11 +164,11 @@
   },
   "active": "d17c4159f9af5b7f",
   "lastOpenFiles": [
-    "无人机项目.md",
     "Conda.md",
-    "ROS.md",
-    "Linux.md",
+    "无人机项目.md",
     "GIT.md",
+    "Linux.md",
+    "ROS.md",
     "asset"
   ]
 }
